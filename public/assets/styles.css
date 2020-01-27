@@ -1,0 +1,10 @@
+li{
+    color:aqua;
+    cursor:pointer;
+}
+#todo-table{
+    background-color:darkslategrey;
+}
+li:hover {
+    background-color:dimgrey;
+}

@@ -1,0 +1,3 @@
+C:\Users\Loop\source\repos\todo\obj\Debug\todo.njsprojAssemblyReference.cache
+C:\Users\Loop\source\repos\todo\obj\Debug\todo.njsproj.CoreCompileInputs.cache
+C:\Users\Loop\source\repos\todo\bin\Microsoft.NodejsTools.WebRole.dll
